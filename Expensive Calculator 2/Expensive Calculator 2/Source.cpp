@@ -15,7 +15,7 @@ int main()
 	int divide;
 	int remainder;
 
-	cout << "What ia your name?";
+	cout << "What is your name?";
 	cin >> nameString;
 
 	cout << "Please enter your first number";
